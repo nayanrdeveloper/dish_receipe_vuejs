@@ -1,5 +1,5 @@
 <template>
-    <header class="bg-white shadow-md h-24 flex justify-between items-center">
+    <header class="bg-white shadow-md h-16 flex justify-between items-center">
         <router-link :to="{ name: 'home' }" class="inline-flex items-center h-full px-5">
             Home
         </router-link>
@@ -12,7 +12,7 @@
                 class="px-2 h-full hover:bg-purple-200 rounded-md py-1 inline-flex justify-center transition-colors">
                 Meals By Letter Meals
             </router-link>
-            <router-link :to="{ name: 'byIngredient' }"
+            <router-link :to="{ name: 'ingredient' }"
                 class="px-2 h-full hover:bg-purple-200 rounded-md py-1 inline-flex justify-center transition-colors">
                 Meals By Ingredients
             </router-link>
