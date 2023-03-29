@@ -50,17 +50,17 @@ Open your Project in browser (http://localhost:3000/)
 
 Home
 
-![Home Page](screenshots/home_1.png)
+![Home Page](/screenshots/home_1.png)
 
 Search Meals
 
-![Search Meals](screenshots/search_meals_2.png)
+![Search Meals](/screenshots/search_meals_2.png)
 
 Meals by Letter
 
-![Meals by Letter](screenshots/meal_by_letter_3.png)
+![Meals by Letter](/screenshots/meal_by_letter_3.png)
 
 Meal Ingredient
 
-![Home Page](screenshots/meal_ingradients_4.png)
+![Home Page](/screenshots/meal_ingradients_4.png)
 
